@@ -1,0 +1,51 @@
+Hello There Artists..Greetings
+This is L3NOX 
+I made this plugin for Compression 
+Its is free to use.
+
+Note:-
+1)This plugin was made by Free version/Trial version of Blue Cat Plugin & Script Frame Work
+2)It will run for 10 mins and stop processing audio and output Silence.
+3)This Software are VST & VST3 Plugins which require Host(Fl Studio,Ableton,LogicProX,Cubase,etc.)
+
+--> VST :-- UnResizable
+
+--> VST3:--   Resizable
+
+                                         <-<-<-<-<-<-<-<-<    Installation    >->->->->->->->->
+Step 1)
+
+*Fl Studio/Ableton*
+
+There are two zip files with name as following
+VST
+VST3
+
+1)Extract both zips as they are
+2)Open the Folder and Copy the files and paste them in  following locations....
+
+For VST----------------------------------------!!!!(Location)
+C:\Program Files\VSTPlugins
+
+For VST3---------------------------------------!!!!(Location)
+C:\Program Files(x86)\VstPlugins
+
+Step 2)
+Open Fl Studio >> Select ADD >> Manage Plugin >> Search for Plugin
+
+Done you will be able to see the plugin in the plugin manager list
+
+Same goes with Ableton Installation but there is slight change in Step 2 which is as follows
+
+Step 2)
+Open Ableton >> Select Options >> Preferences >> Plugins
+Once you paste the folder from VST and VST3 in following it will scan and show in the plugins folder of both DAW's.
+
+
+
+Contact Only for Issues with importing of plugin
+--> l3noxmusic@gmail.com 
+
+
+
+
