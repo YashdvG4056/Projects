@@ -6,13 +6,14 @@ Its is free to use.
 Note:-
 1)This plugin was made by Free version/Trial version of Blue Cat Plugin & Script Frame Work
 2)It will run for 10 mins and stop processing audio and output Silence.
-3)This Software are VST & VST3 Plugins which require Host(Fl Studio,Ableton,LogicProX,Cubase,etc.)
+3)The Software are VST & VST3 Plugins which require Host(Fl Studio,Ableton,LogicProX,Cubase,etc.)
 
 --> VST :-- UnResizable
 
---> VST3:--   Resizable
+--> VST3:--  Resizable
 
                                          <-<-<-<-<-<-<-<-<    Installation    >->->->->->->->->
+
 Step 1)
 
 *Fl Studio/Ableton*
